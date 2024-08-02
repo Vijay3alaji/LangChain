@@ -1,4 +1,14 @@
-pandas 
+pandas
 numpy
 seaborn
--e.
+langchain
+fastapi
+uvicorn
+sse_starlette
+bs4
+pypdf
+faiss-cpu
+langchain_ollama
+streamlit
+langchain_community
+
